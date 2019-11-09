@@ -1,3 +1,13 @@
+Customized overlays based on work by https://github.com/TreyM/classic-crt-collection for use with WinUAE.
+
+Designed for 1920x1080 displays. 
+Preview: https://imgur.com/a/T407GTt
+
+Setup based on WinUAE 4.2:
+
+![Logo](https://i.imgur.com/peHKBbx.png)
+
+************************************************************************************************************
 ![Logo](https://i.imgur.com/TZQXZQk.jpg)
 
 To use these overlays, you will need to place the CRT folder in your overlay folder on your Pi:
